@@ -1,0 +1,12 @@
+{
+    "name": "leek/console-table-sample",
+    "authors": [
+        {
+            "name": "Chris Jones",
+            "email": "leeked@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "*"
+    }
+}
